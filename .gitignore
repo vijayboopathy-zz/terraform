@@ -7,3 +7,4 @@ ehthumbs.db
 Thumbs.db
 .terraform
 .terraform/*
+example/.terraform/*
